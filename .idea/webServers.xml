@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b8a1522-60cf-43ee-bf3a-0edc5b92c784" name="htdocs" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\demo" accessType="MOUNT" />
+      </webServer>
+      <webServer id="59f065e8-ef60-4fb2-a40c-85ef1912d396" name="localhost">
+        <fileTransfer host="" port="21" username="">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9e93c564-da9e-4bfd-8ff1-86b0c2414aa1" name="htdocs (1)" url="http://localhost/demo">
+        <fileTransfer port="0" mountedRoot="C:\xampp\htdocs\demo" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
